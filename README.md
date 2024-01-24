@@ -1,2 +1,2 @@
-# computer_Network_LAB-SEM5
+# computer_Networks_LAB-SEM5
 laboratory
